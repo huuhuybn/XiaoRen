@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XiaoRen</string>
+    <string name="param">page-%1$d.html</string>
+    <string name="notity_scroll_more">Scroll down to view more...</string>
+    <string name="loading">Loading...</string>
+    <string name="count_photo">Total Photo : %1$d</string>
+    <string name="album">%1$d / %2$d</string>
+</resources>
